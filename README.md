@@ -10,4 +10,4 @@ Server side (on branch server):
 
 Client side (on branch client):
 - modified employee service to match with server schema
-- modified package.json to resolve existing dependency conflicts
+- modified package.json to resolve existing dependency conflicts in starter code
