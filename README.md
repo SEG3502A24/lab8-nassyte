@@ -8,6 +8,7 @@ Server side (on branch server):
 - implemented resolvers
 - Modified employee class for id to be part of constructor
 - modified java version of gradle build (from 21 to 17)
+- test function can cause errors with build (in that case build and skip running tests)
 
 Client side (on branch client):
 - modified employee service to match with server schema
